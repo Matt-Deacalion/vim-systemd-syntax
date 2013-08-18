@@ -11,3 +11,6 @@ Installing
   `:BundleInstall`
 
         Bundle "Matt-Stevens/vim-systemd-syntax"
+
+### Licence
+Copyright © 2013—2014 [Matt Deacalion Stevens](http://dirtymonkey.co.uk), released under [The MIT Licence](http://deacalion.mit-license.org/).
