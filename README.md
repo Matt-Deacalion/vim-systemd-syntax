@@ -8,9 +8,9 @@ Installing
 ----------
 
 * Using [Vundle](https://github.com/gmarik/vundle), add the following to your `.vimrc` and
-  `:BundleInstall`
+  `:PluginInstall`
 
-        Bundle "Matt-Deacalion/vim-systemd-syntax"
+        Plugin 'Matt-Deacalion/vim-systemd-syntax'
 
 ### Licence
-Copyright © 2013—2014 [Matt Deacalion Stevens](http://dirtymonkey.co.uk), released under [The MIT Licence](http://deacalion.mit-license.org/).
+Copyright © 2014 [Matt Deacalion Stevens](http://dirtymonkey.co.uk), released under [The MIT Licence](http://deacalion.mit-license.org/).
