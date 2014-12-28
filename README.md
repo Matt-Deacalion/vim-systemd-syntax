@@ -13,4 +13,4 @@ Installing
         Plugin 'Matt-Deacalion/vim-systemd-syntax'
 
 ### Licence
-Copyright © 2014 [Matt Deacalion Stevens](http://dirtymonkey.co.uk), released under [The MIT Licence](http://deacalion.mit-license.org/).
+Copyright © 2015 [Matt Deacalion Stevens](http://dirtymonkey.co.uk), released under [The MIT Licence](http://deacalion.mit-license.org/).
