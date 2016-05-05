@@ -8,7 +8,7 @@ if exists("b:current_syntax")
 endif
 
 syn region systemdSection start="^\[" end="\]"
-syn match  systemdLabel "^[^=]*="he=e-1
+syn match  systemdLabel "^[A-Za-z0-9]\+\ze="
 syn match  systemdComment "^#.*$"
 syn region systemdQuoteSingle start=+'+ end=+'+
 syn region systemdQuoteDouble start=+"+ skip=+\\\\\|\\"+ end=+"+ contains=systemdSpecial
