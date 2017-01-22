@@ -9,7 +9,7 @@ endif
 
 syn region systemdSection start="^\[" end="\]"
 syn match  systemdLabel "^[A-Za-z0-9]\+\ze="
-syn match  systemdComment "^#.*$"
+syn match  systemdComment "^[#;].*$"
 syn region systemdQuoteSingle start="'" end="'"
 syn region systemdQuoteDouble start='"' skip='\\\\\|\\"' end='"' contains=systemdSpecial
 syn match  systemdSpecial display contained '\\[\\"]'
